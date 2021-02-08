@@ -1,10 +1,10 @@
 #first {
-  font-family: "Copperplate",serif;
+  font-family: "Copperplate", serif;
   color: blue;
 }
 
 .second {
-  font-family: "Times new roman",Cursive;
+  font-family: "Times new roman", cursive;
   color: darkorange;
     border: 1px solid black;
   margin-top: 50px;
