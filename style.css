@@ -1,11 +1,11 @@
 #first {
-  font-family: "Copperplate,serif";
+  font-family: "Copperplate",serif;
   color: blue;
 }
 
-.second { 
-  font-family: "Times new roman,Cursive";
-  color: darkorange; 
+.second {
+  font-family: "Times new roman",Cursive;
+  color: darkorange;
     border: 1px solid black;
   margin-top: 50px;
   margin-bottom: 50px;
@@ -14,8 +14,8 @@
   background-color: lightblue;
 }
 
-.Third {
+.third {
   height: 200%;
-  width: %; 
-  border: 30px solid red; 
+  width: 40%;
+  border: 30px solid red;
 }
